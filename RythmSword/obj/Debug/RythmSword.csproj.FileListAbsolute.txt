@@ -1,0 +1,10 @@
+C:\myProjects\RythmSword\RythmSword\bin\Debug\RythmSword.exe.config
+C:\myProjects\RythmSword\RythmSword\bin\Debug\RythmSword.exe
+C:\myProjects\RythmSword\RythmSword\bin\Debug\RythmSword.pdb
+C:\myProjects\RythmSword\RythmSword\obj\Debug\RythmSword.csprojAssemblyReference.cache
+C:\myProjects\RythmSword\RythmSword\obj\Debug\RythmSword.Properties.Resources.resources
+C:\myProjects\RythmSword\RythmSword\obj\Debug\RythmSword.csproj.GenerateResource.cache
+C:\myProjects\RythmSword\RythmSword\obj\Debug\RythmSword.csproj.CoreCompileInputs.cache
+C:\myProjects\RythmSword\RythmSword\obj\Debug\RythmSword.exe
+C:\myProjects\RythmSword\RythmSword\obj\Debug\RythmSword.pdb
+C:\myProjects\RythmSword\RythmSword\obj\Debug\RythmSword.Form1.resources
